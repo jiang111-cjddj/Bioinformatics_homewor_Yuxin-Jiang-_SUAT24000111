@@ -1,0 +1,10 @@
+EasyMultiProfiler 16S one-click run
+Experiment: Homework6
+Started:    2026-09-27 21:49:30
+
+[21:49:31] Taxonomy prep                                0.62s  ok
+[21:49:37] Alpha                                        6.66s  ok | indices=shannon,simpson,invsimpson,chao1,ace,observed,pielou
+[21:49:43] Beta                                         5.91s  ok | methods=PCoA,PCA,NMDS
+[21:49:47] Heatmap + barplot                            3.20s  ok
+[21:49:47] Diff taxa                                    0.31s  ok
+[21:49:48] Metadata snapshot                            0.62s  ok
